@@ -56,11 +56,11 @@ Enter marks: 95
 - Functions for separating concerns (single-responsibility per operation)
 - String vs. numeric type handling (`isdecimal()`, `int()`)
 - Defensive programming — validating input before trusting it
-- CRUD pattern (Create, Read, Update, Delete) — the same pattern used in databases and, later, SQL
+- CRUD pattern (Create, Read, Update, Delete)
 
 ## Why This Project
 
-This is part of my Python → Data Science learning path. The CRUD pattern here is a direct stepping stone toward working with Pandas DataFrames and, eventually, SQL — both of which involve the same create/read/update/delete operations on structured data.
+This is part of my Python learning module. It will help me in achieving fluency in python language.
 
 ## Possible Next Steps
 
@@ -69,4 +69,3 @@ This is part of my Python → Data Science learning path. The CRUD pattern here 
 - Add a search/sort feature (e.g. view students sorted by marks)
 
 ---
-*Part of my Python Foundations → Data Science learning journey.*
